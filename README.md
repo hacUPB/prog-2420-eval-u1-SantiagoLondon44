@@ -17,5 +17,7 @@ Fuente: https://concepto.de/hardware/#ixzz8gqLyNMe9
 ### ¿QUE ES?: El término software es un vocablo inglés que fue tomado por otros idiomas y designa a todo componente intangible (y no físico) que forma parte de dispositivos como computadoras, teléfonos móviles o tabletas y que permite su funcionamiento. Este basicamente consiste programas y aplicaciones las cuales cumplen X o Y funcion dentro del sistema.
 Fuente: https://concepto.de/software/#ixzz8gqOdKQO0
 
-1. Sistema Operativo: 
+1. Sistema Operativo: un sistema operativo es un componente esencial que permite que todos nuestros artefactos inteligentes puedan funcionar sin problemas. Según Apen Soluciones Informáticas, el sistema operativo es el conjunto de programas informáticos, que permite la administración eficaz de los recursos de un ordenador. Ademas de lo anterior este sirve principalmente para la ejecucion adecuada de programas (organizar). 
+2. Aplicaciones de usuario:
+3. Drivers: basicamente es un software que indica al sistema como comunicarse con el hardware
                       
