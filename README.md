@@ -18,6 +18,9 @@ Fuente: https://concepto.de/hardware/#ixzz8gqLyNMe9
 Fuente: https://concepto.de/software/#ixzz8gqOdKQO0
 
 1. Sistema Operativo: un sistema operativo es un componente esencial que permite que todos nuestros artefactos inteligentes puedan funcionar sin problemas. Según Apen Soluciones Informáticas, el sistema operativo es el conjunto de programas informáticos, que permite la administración eficaz de los recursos de un ordenador. Ademas de lo anterior este sirve principalmente para la ejecucion adecuada de programas (organizar). 
-2. Aplicaciones de usuario:
-3. Drivers: basicamente es un software que indica al sistema como comunicarse con el hardware
-                      
+2. Aplicaciones de usuario:Son programas diseñados para que el usuario realice tareas específicas en el dispositivo, estas aplicaciones pueden ser procesadores de texto, hojas de cálculo, navegadores web, etc.
+3. Drivers: basicamente es un software que indica al sistema como comunicarse con el hardware.
+4. Software de desarrollo: Son programas donde un desarrollador puede crear nuevo software. Esto se hace con editores de código como Visual Studio Code, sistemas de control de versiones o herramientas de automatización.
+
+![Imagen mapa mental](<https://i.imgur.com/25xblfb.png>)
+       
