@@ -91,3 +91,57 @@ Inicio
 
          imprimir ("NO APROBO")
 Fin          
+
+Inicio 
+
+
+
+//definir variables
+
+horas_servicio
+
+Precio
+
+
+
+//leer valores de entrada
+
+Leer horas_servicio
+
+
+
+
+
+//calcular precio
+
+Si h <= 2, precio = (horas_servicio * 5)
+
+Fin si 
+
+
+
+Si  5>=h>2 , precio=  ([horas_servicio-2]*4)+10
+
+Fin si 
+
+
+
+Si 10>=h>5, precio= ([horas_servicio-5]*3)+22
+
+Fin si 
+
+
+
+Si h>10, precio= ([horas_servicio-10]*2)+37
+
+Fin si 
+
+
+
+//mostrar precio
+
+Imprimir (“el valor del servicio es: +Precio)
+
+
+
+Fin
